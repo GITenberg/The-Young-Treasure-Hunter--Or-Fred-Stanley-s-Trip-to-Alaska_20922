@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '1955'
     url: http://www.gutenberg.org/2009/agents/1955
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20922#The-Young-Treasure-Hunter--Or-Fred-Stanley-s-Trip-to-Alaska
 gutenberg_issued: '2007-03-28'
 gutenberg_type: Text
 identifiers:
