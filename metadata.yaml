@@ -1,0 +1,26 @@
+_repo: The-Young-Treasure-Hunter--Or-Fred-Stanley-s-Trip-to-Alaska_20922
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Webster, Frank V.
+    gutenberg_agent_id: '1955'
+    url: http://www.gutenberg.org/2009/agents/1955
+description: ''
+gutenberg_issued: '2007-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20922'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alaska -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Treasure troves -- Juvenile fiction'
+- !lcsh 'Gold mines and mining -- Alaska -- Juvenile fiction'
+title: The Young Treasure Hunter; Or, Fred Stanley's Trip to Alaska
+url: http://www.gutenberg.org/ebooks/20922
